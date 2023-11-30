@@ -1,3 +1,3 @@
 # OPMA-415
-OPMA 415 Macro Enabled Excel Sheet
-Case study involving VBA-enabled spreadsheet modelling to design and implement optimization models with uncertainty
+Identification of data requirements for analytical decision-making. Case studies used throughout to develop insight for decision making while dealing with incomplete and ambiguous data. Introduction to VBA-enabled spreadsheet modelling to design and implement optimization models without/with uncertainty as well as advanced Monte Carlo simulation.
+This course may not be repeated for credit.
